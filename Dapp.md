@@ -67,6 +67,7 @@ If you’re interested in developing your own Dapp to tap into its potential, fo
 * Start executing your idea while still developing your plans.
 
 
+Imagine a DApp becoming the computer operating system (OSX or Windows), the programs used on the system (Photoshop, Dropbox), or specialized software that uses the programs, such as a blog that integrates Dropbox. Bitcoin is only the tip of the iceberg of what is possible with this new type of application.
 
 # Terms
 cryptographically stored ledger, scarce-asset model, and peer-to-peer technology.
