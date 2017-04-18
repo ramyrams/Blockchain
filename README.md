@@ -1,1 +1,145 @@
 # Blockchain
+
+
+# DApp Ecosystem
+Decentralized Data
+Decentralized Wealth
+Decentralized Identity
+Decentralized Computing
+Decentralized Bandwidth
+Decentralized Markets for Decentralized Assets
+Practical Decentralization
+
+Dapp Economics
+
+# Ethereum
+	https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990
+	https://ethereum.github.io/go-ethereum/
+	https://ethereum.org/greeter
+	https://ethereum.org/token
+	https://ethereum.org/crowdsale
+	https://ethereum.org/dao
+	
+	pyethereum - https://github.com/ethereum/pyethereum
+	
+# Semantic Ethereum
+	https://media.consensys.net/ethon-introducing-semantic-ethereum-15f1f0696986
+# Smart Contracts 
+# DApp Frameworks and Tools
+	https://dappsforbeginners.wordpress.com/
+# Solidity
+# Ethereum Clients
+	* Ethereum has several different client implementations (meaning ways to run a node to interact with the Ethereum network) including C++, Go, Python, Java, Haskell, etc.
+	* a gui-based client in development, AlethZero.
+	* the Go language one (go-ethereum) http://ethereum.github.io/go-ethereum/
+	* on other days a tool called testrpc that uses the Python client, pyethereum. https://github.com/ethereum/pyethereum
+	* Interactive Console. https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console
+	* JSON RPC  https://github.com/ethereum/wiki/wiki/JSON-RPC
+	* Running a node on a test network. If you install a client like geth and run it on the live network, it will take a while to download the entire blockchain and sync with the network. 
+	* testrpc. You can run a test network using geth, or another fast way of getting a testnet running is using testrpc. 
+	
+# Smart Contract Languages
+	* To write smart contracts there are a few different languages: 
+	* ** Solidity** , which is like JavaScript and has .sol as a file extension, Serpent, Python-like with extension .se
+	* ** solc**  Compiler. After writing a contract in Solidity, use solc to compile it. It’s from the C++ libraries (different implementations complementing each other again) which can be installed here.
+	* ** web3.js API** 
+	
+	https://github.com/ConsenSys/smart-contract-best-practices
+	
+# DApp-building Frameworks
+	* **Trufle and Embark**. The one that got me started is Truffle. (Before Truffle I watched a group of smart student interns last summer code stuff for a sleepless hackathon (albeit with terrific results) and shrank back in fear. Then Truffle came along and did a lot of the nitty gritty stuff for you, so you can start writing-compiling-deploying-testing-building DApps right away.) Another very similar framework for building and testing DApps is Embark. Between those two, I’ve only used Truffle, but there are very successful DApp devs in both camps.
+	* **Meteor**. Another stack a lot of DApp devs use include web3.js + Meteor which is a general webapp framework (The ethereum-meteor-wallet repo has a good starter example, and SilentCiero is building a lot of Meteor integrations with web3.js and DApp boilerplates).
+	* **APIs**. BlockApps.net is creating a RESTful API for DApps based on a Haskell node they run as a centralized service to save you the trouble of running a local Ethereum node. This departs from the completely decentralized model of DApps but is useful when running an Ethereum node locally isn’t realistic. For example if you want to serve your DApp to users who won’t be running local nodes either and reach a wider audience with just a web browser or mobile device. BlockApps has a command line tool called bloc in the works that can be used after creating a developer account with them.
+	
+# Smart Contract IDE
+
+* **IDEs**.There’s a Mix IDE for writing contracts put out by Ethereum. Haven’t tried it but will soon.
+
+* **Browser-based IDEs**. The Solidity real-time compiler and Cosmo are both a fast way to get started compiling your smart contracts right away in a browser. You can even point your local node at these hosted instances by opening up a port (you should trust the site and not have your life savings in ether on your local node for that! See the Cosmo UI for instructions on how to do this with geth). But once your contract is working ok it’s nice to use a framework for adding a UI and packaging it all up as a DApp, which is what Truffle does and will be explained in the programming part later.
+
+* Another powerful enterprise-y browser IDE is in the works by Ether.Camp. Their IDE comes with a sandbox test network with an auto-generated GUI for testing (instead of writing tests manually as shown in the tutorial later) as well as a sandbox transaction explorer at test.ether.camp. When you’re ready to deploy your contract for semi-real, using their testnet can a good way to confirm your smart contract’s working as expected on a closer-to-real testbed. The same explorer for the live Ethereum network is at frontier.ether.camp and it shows details about every transaction ever. Ether.Camp’s IDE is invite-only for eager guinea pigs at time of writing but will be launched soon.
+
+# Workflow for Deploying Smart Contracts
+The workflow is:
+
+1. **Start** an Ethereum node (e.g. geth or testrpc)
+2. **Compile** your Solidity smart contract using solc => get back the binary
+3. **Deploy** your compiled contract to the network. (This step costs ether and signs the contract using your node’s default wallet address, or you can specify another address.) => get back the contract’s blockchain address and ABI (a JSON-ified representation of your compiled contract’s variables, events and methods that you can call)
+4. **Call** stuff in the contract using web3.js’s JavaScript API to interact with it (This step may cost ether depending on the type of invocation.)
+
+![1](https://consensys.github.io/developers/images/front-end.png)
+
+
+
+
+
+# Truffle
+For many types of Dapps (Distributed Apps), Truffle does everything you could want: It compiles your blockchain contracts, injects them into your web app, and can even run a test suite against them!
+
+http://truffle.readthedocs.io/en/latest/
+
+https://metamask.io/
+
+# Metamask
+With Metamask, all your users need to do is install the Chrome plugin, and they will have their own secure blockchain accounts right there in the convenience of their browsers.
+
+https://medium.com/metamask/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba
+
+
+Truffle Tricks for Ethereum Development: Dispelling 8 Myths & First Impressions
+https://media.consensys.net/truffle-tricks-for-ethereum-development-dispelling-8-myths-first-impressions-ecb3edf88207
+
+# Sample App
+Ethereum Wallet Ðapp https://github.com/ethereum/meteor-dapp-wallet
+
+# For .NET Development
+# nethereum
+http://www.nethereum.com/ - Bringing the love of Ethereum to .Net
+
+Solidity Integration with Visual Studio
+https://media.consensys.net/solidity-integration-with-visual-studio-7f25ea1bde71
+
+# OpenBazaar
+	https://openbazaar.org/
+	
+	Why Make OpenBazaar?
+What Is OpenBazaar?
+How Does OpenBazaar Work?
+How to Install OpenBazaar
+What Could OpenBazaar Have Done Better?
+
+# La’Zooz
+	http://lazooz.org/
+	
+
+
+What Is La’Zooz?
+UX
+
+	
+# Lighthouse
+
+	https://bravenewcoin.com/news/lighthouse-tackles-decentralized-crowdfunding/
+	http://bitcoinist.com/decentralized-crowdfunding-app-lighthouse-getting-traction/
+	https://techcrunch.com/2014/05/23/lighthouse-is-a-crowdfunding-platform-built-on-top-of-bitcoin/
+	
+	Functionality
+SPV Wallets
+Identity
+
+# URL
+* [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://consensys.github.io/developers/articles/101-noob-intro/)
+
+# Free Course
+http://courses.blockgeeks.com/courses/blockchain-faqs-answered-in-1-hour
+
+http://courses.blockgeeks.com/courses/blockchain-glossary-learn-blockchain-frequently-used-terms
+
+
+https://github.com/oreillymedia/decentralized_applications
+
+The Supply Circle: How Blockchain Technology Disintermediates the Supply Chain
+https://media.consensys.net/the-supply-circle-how-blockchain-technology-disintermediates-the-supply-chain-6a19f61f8f35
+
+What Is Ethereum? And How Does It Work?
+https://dinardirham.com/blog/what-is-ethereum-and-how-does-it-work/
