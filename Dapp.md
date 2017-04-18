@@ -69,6 +69,14 @@ If you’re interested in developing your own Dapp to tap into its potential, fo
 
 Imagine a DApp becoming the computer operating system (OSX or Windows), the programs used on the system (Photoshop, Dropbox), or specialized software that uses the programs, such as a blog that integrates Dropbox. Bitcoin is only the tip of the iceberg of what is possible with this new type of application.
 
+## Below are a few examples of dApp technologies:
+
+* **Ethereum** introduces a dedicated blockchain capable of supporting a “turing complete” programming language. Ethereum allows developers to create their own decentralized applications that “live” on the Ethereum blockchain. The first developer release of Ethereum is available so people have started working on applications for this platform.
+
+* **MaidSafe** provides a “proof of resource” mechanism and decentralized data structure for storing files privately or publicly in the cloud. This system cryptographically stores file that are distributed throughout the network for on-demand retrieval by the file owners.
+
+* **BURST** is a system that uses the “proof-of-capacity” mechanism, a hard drive based mining solution for network security. BURST has also incorporated “automated transactions” into the capabilities of the network.
+
 # Terms
 cryptographically stored ledger, scarce-asset model, and peer-to-peer technology.
 
