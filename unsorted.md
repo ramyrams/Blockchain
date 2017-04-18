@@ -21,7 +21,8 @@ With such interesting possibilities in terms of how blockchain can be used and t
 * Security implementation that generates the Blocks
 * The process of adding newer blocks to the Chain
 
-
+Introduction to Ethereum: The Internet’s Government
+https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a
 
 The Blockchain Application Stack
 http://68.media.tumblr.com/c3c9e6c94056b5e938ab4ec85fa01ac8/tumblr_inline_nfkpf6cZb01shuq8m.png
