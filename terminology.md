@@ -18,3 +18,36 @@
 * **Gas**. Running and storing things on Ethereum costs small amounts of ether. Keeps things efficient.
 
 * **DApp**. Decentralized App, what applications using smart contracts are called in the Ethereum community. The goal of a DApp is (well, should be) to have a nice UI to your smart contracts plus any extra niceties like IPFS (a neat way to store and serve stuff in a decentralized network, not made by Ethereum but a kindred spirit). While DApps can be run from a central server if that server can talk to an Ethereum node, they can also be run locally on top of any Ethereum node peer. [Take a minute: unlike normal webapps, DApps may not be served from a server. They may use the blockchain to submit transactions and retrieve data (important data!) rather than a central database. Instead of a typical user login system, users may be represented by a wallet addresses and keep any user data local. Many things can be architected differently from the current web.]
+
+
+Blockchain
+Bitcoin
+Ethereum
+ZCash
+Smart Contract
+Decentralized Ledger
+Public Ledger
+Private Ledger
+Peer-to-peer network
+Centralized storage
+Solidity (Language for writing Smart Contracts)
+Use cases of Blockchain
+Genesis Block
+Mining
+Miner
+Rewards
+Merkel Root
+Signing a Transaction
+Hard Fork
+Blockchain Attacks
+51% Attack & Eclipse Attack
+Blocknet
+Hashpower
+Gas
+Blockchain Explorer
+Transaction
+Cryptocurrency
+Cryptography
+Public & Private Key (PKI Infrastructure)
+Symmetric Key
+
