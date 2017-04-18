@@ -1,5 +1,21 @@
 # Blockchain
 
+website vs Dapp
+
+Front End → API → Database
+
+A Dapp is very similar to a traditional web application. The front end uses the exact same technology to render the page. The one critical difference is that instead of an API connecting to a Database, you have a Smart Contract connecting to a blockchain.
+
+You can think of a Dapp like this:
+
+Front End → Smart Contract → Blockchain
+
+A Dapp is a ‘blockchain enabled’ website, where the Smart Contract is what allows it to connect to the blockchain.
+
+Smart contract is like a character. Dapp is like a word. The difference is not in the length but in the depth of meaning. The later has a complete one (makes sense as is). The former doesn’t (it is supposed to be an actor in the system but at the different hierarchy level).
+
+Dapps is decentralized applications built on top of blockchain technology. Some dapps are built on it’s own blockchain while most are based on popular blockchain networks like Bitcoin & Ethereum. Use the tools in the sidebar to find dapps with specific features built on top of certain blockchains.
+
 
 # DApp Ecosystem
 Decentralized Data
