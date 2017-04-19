@@ -1,4 +1,36 @@
 
+51% Attack & Eclipse Attack
+Bitcoin
+Blockchain
+Blockchain Attacks
+Blockchain Explorer
+Blocknet
+Centralized storage
+Cryptocurrency
+Cryptography
+Decentralized Ledger
+Ethereum
+Gas
+Genesis Block
+Hard Fork
+Hashpower
+Merkel Root
+Miner
+Mining
+Peer-to-peer network
+Private Ledger
+Public & Private Key (PKI Infrastructure)
+Public Ledger
+Rewards
+Signing a Transaction
+Smart Contract
+Solidity (Language for writing Smart Contracts)
+Symmetric Key
+Transaction
+Use cases of Blockchain
+ZCash
+
+
 * **Public Key Cryptography**. Alice has a public key and private key. She can use her private key to create a digital signature, and Bob can use Alice’s public key to verify that a signature is really from Alice’s private key, i.e., really from Alice. When you create an Ethereum or Bitcoin wallet the long ‘0xdf…5f’ address is a public key and the private key is stored somewhere. A Bitcoin wallet service like Coinbase stores your wallet’s complementary private key for you, or you can store it yourself. If you lose your private key for a wallet with real funds you’ll lose all your funds forever, so it’s good to back up your keys. It hurts to learn this the hard way! I’ve done it.
 
 * **Peer-to-Peer Networking**. Like BitTorrent, all Ethereum nodes are peers in a distributed network, there’s no centralized server. [In the future, there’ll be hybrid semi-centralized services for Ethereum as a convenience to users and developers, more on that later.]
@@ -19,35 +51,4 @@
 
 * **DApp**. Decentralized App, what applications using smart contracts are called in the Ethereum community. The goal of a DApp is (well, should be) to have a nice UI to your smart contracts plus any extra niceties like IPFS (a neat way to store and serve stuff in a decentralized network, not made by Ethereum but a kindred spirit). While DApps can be run from a central server if that server can talk to an Ethereum node, they can also be run locally on top of any Ethereum node peer. [Take a minute: unlike normal webapps, DApps may not be served from a server. They may use the blockchain to submit transactions and retrieve data (important data!) rather than a central database. Instead of a typical user login system, users may be represented by a wallet addresses and keep any user data local. Many things can be architected differently from the current web.]
 
-
-Blockchain
-Bitcoin
-Ethereum
-ZCash
-Smart Contract
-Decentralized Ledger
-Public Ledger
-Private Ledger
-Peer-to-peer network
-Centralized storage
-Solidity (Language for writing Smart Contracts)
-Use cases of Blockchain
-Genesis Block
-Mining
-Miner
-Rewards
-Merkel Root
-Signing a Transaction
-Hard Fork
-Blockchain Attacks
-51% Attack & Eclipse Attack
-Blocknet
-Hashpower
-Gas
-Blockchain Explorer
-Transaction
-Cryptocurrency
-Cryptography
-Public & Private Key (PKI Infrastructure)
-Symmetric Key
 
