@@ -6,17 +6,25 @@ Blockchain Attacks
 Blockchain Explorer
 Blocknet
 Centralized storage
+Centralized/Decentralized
+Consensus Algorithm
 Cryptocurrency
 Cryptography
 Decentralized Ledger
+Difficulty
+Ether
 Ethereum
 Gas
 Genesis Block
 Hard Fork
+Hash rate
+Hashes
 Hashpower
-Merkel Root
+Ledger
+Merkel Tree & Root
 Miner
 Mining
+Multichain
 Peer-to-peer network
 Private Ledger
 Public & Private Key (PKI Infrastructure)
@@ -27,8 +35,10 @@ Smart Contract
 Solidity (Language for writing Smart Contracts)
 Symmetric Key
 Transaction
+Transaction Confirmation
 Use cases of Blockchain
 ZCash
+
 
 
 * **Public Key Cryptography**. Alice has a public key and private key. She can use her private key to create a digital signature, and Bob can use Alice’s public key to verify that a signature is really from Alice’s private key, i.e., really from Alice. When you create an Ethereum or Bitcoin wallet the long ‘0xdf…5f’ address is a public key and the private key is stored somewhere. A Bitcoin wallet service like Coinbase stores your wallet’s complementary private key for you, or you can store it yourself. If you lose your private key for a wallet with real funds you’ll lose all your funds forever, so it’s good to back up your keys. It hurts to learn this the hard way! I’ve done it.
