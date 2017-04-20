@@ -65,6 +65,17 @@ https://due.com/blog/12-reasons-business-needs-blockchain/
 6 BLOCKCHAIN APPLICATIONS THAT GO BEYOND BITCOIN
 https://due.com/blog/6-blockchain-applications-go-beyond-bitcoin/
 
+Ethereum Blockchain as a Service now on Azure
+https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/
+
+Blockchain Insurance Summit -- Use Case Panel Discussion
+https://www.slideshare.net/rzenkich/blockchain-insurance-summit-use-case-panel-discussion
+
+Cryptocurrencies, Blockchain & Smart Contracts: The New Wave of Decentralization
+https://www.slideshare.net/raffaele.mauro/cryptocurrencies-blockchain-smart-contracts-the-new-wave-of-decentralization
+
+Blockchain Use Cases: Think of a "Public" Pub/Sub Queue
+https://www.slideshare.net/altoros/blockchain-use-cases-think-of-a-public-pubsub-queue
 
 FOUR SECTORS BLOCKCHAIN IS ON THE POINT OF CHANGING
 https://due.com/blog/four-sectors-blockchain-point-changing/
