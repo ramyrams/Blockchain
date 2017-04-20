@@ -376,3 +376,154 @@ https://blockgeeks.com/guides/what-is-blockchain-technology/
 5 Blockchain Applications That Will Disruptive Society
 https://blockgeeks.com/5-blockchain-applications-that-will-disruptive-society/
 
+
+https://crowdfundattny.com/2016/03/04/using-blockchain-technology-in-crowdfunding-2/
+https://blogs.thomsonreuters.com/answerson/blockchain-technology/
+
+http://hackersonlineclub.com/blockchain-technology/
+http://www.cnbc.com/2016/02/29/the-challenges-of-using-blockchain-technology.html
+
+https://www.slideshare.net/opusconsulting/blockchain-technology-a-primer
+
+http://banknxt.com/52000/proliferation-of-blockchain-technology/
+
+https://www.slideshare.net/FINTECHCircle/fintech-circle-blockchain-masterclass-bny-mellon-20150602
+
+http://www.businessinsider.com/what-is-blockchain-barclays-2016-3
+
+http://www.spatialsource.com.au/latest-news/bitcoin-an-australian-innovation-in-land-titling
+	
+	https://www.weforum.org/agenda/2016/06/blockchain-explained-simply/
+	
+	https://blockchain-finance.com/2016/10/31/ethereum-developers-course-now-certifiable-on-ethereum-blockchain/
+	
+	http://exosphe.re/courses/blockchain/
+	
+	https://decentralize.today/announcing-the-ethereum-developers-course-39ab4c83c130
+	
+	https://news.bitcoin.com/learn-8-weeks-ethereum-stream-course/
+
+	https://www.blockcypher.com/dev/videos/
+	
+	https://live.blockcypher.com/
+	
+	https://diginomics.com/product/ethereum-certification/
+	
+	https://diginomics.com/courses/ethereum/
+	
+	https://academy.b9lab.com/courses/course-v1:B9lab+ETH-14+2017-07/about
+	http://courses.blockgeeks.com/courses/blockchain-glossary-learn-blockchain-frequently-used-terms
+	
+	http://disruptordaily.com/top-10-disruptive-ethereum-decentralized-apps-and-projects/
+
+	https://blockstack.org/
+	
+	http://www.blockchaintechnologies.com/blockchain-definition
+	
+	http://www.blockchaintechnologies.com/blockchain-cryptocurrency
+	
+	https://blockchain.info/home
+	
+	http://www.blockchaintechnologies.com/blockchain-definition
+	
+	http://www.pcmag.com/article/350088/blockchain-in-2017-the-year-of-smart-contracts
+	http://www.pcmag.com/article/344969/blockchain-a-z-everything-you-need-to-know-about-the-game-c
+	http://www.pcmag.com/article/346729/ibm-microsoft-are-building-our-blockchain-future-and-theyr
+	
+# Hyperledger
+https://www.ibm.com/blockchain/hyperledger.html
+Bitcoin vs Ethereum vs Hyperledger	
+
+
+https://letstalkpayments.com/an-overview-of-blockchain-technology/
+
+https://letstalkpayments.com/wp-content/uploads/2015/09/Capture1.png
+
+# Usecase
+https://letstalkpayments.com/wp-content/uploads/2015/07/Blockchain-Usecases-and-Startups-1024x697.png
+https://letstalkpayments.com/wp-content/uploads/2015/09/Untitled2.png
+
+Below is a quick description of each of the use cases:
+
+App development: Proof of ownership of modules in app development
+
+Digital content: Proof of ownership for digital content storage and delivery
+
+Ride-sharing: Points-based value transfer for ride-sharing
+
+Digital security trading: Ownership and transfer
+
+Digitization of documents/contracts: Digitization of documents/contracts and proof of ownership for transfers
+
+Decentralized storage: Decentralized storage using a network of computers on blockchain
+
+Company incorporations: Digitizing company incorporations, transfer of equity/ownership and governance
+
+Decentralized Internet and computing resources: Decentralized Internet and computing resources to cover every home and business
+
+Home automation: Platform to link the home network and electrical devices to the cloud
+
+Digital identity: Provides digital identity that protects consumer privacy
+
+Escrow/custodian service: Escrow/custodian service for the gaming industry; loan servicing and e-commerce
+
+IT portal: A smart contract IT portal executing order fulfillment in ecommerce/manufacturing
+
+Patient records: Decentralized patient records management
+
+Digitizing assets: Improves anti-counterfeit measures
+
+Reputation management: Helps users engage, share reputation and collect feedback
+
+Prediction platform: Decentralized prediction platform for the share markets, elections, etc.
+
+Enables authenticity of a review: Enables authenticity of a review through trustworthy endorsements for employee peer reviews
+
+Marketplace for sales and purchases of digital assets: Proof of ownership and a marketplace for sales and purchases of digital assets
+Document and contract digitisation, management and exploitation
+Secure tracking of data exchange in Internet of Things activity
+Securing and creating trust in escrow and custodian services
+Decentralised and cloud services including patient records and healthcare support
+Electronic voting and voter authentication
+Cloud based learning and student authentication
+Counterfeit prevention for digital assets and proof of ownership
+Digital identity management and providing trust as to authenticity of digital reviews, brands and reputation
+Facilitation of sales and trading of digital assets and digital rights management
+
+http://banknxt.com/55981/blockchain-its-complicated/
+
+https://letstalkpayments.com/wp-content/uploads/2015/12/Blockchain-Infographics-1.png
+
+http://www.everestgrp.com/2016-10-smart-contracts-use-cases-market-insights-36265.html/
+
+https://s-media-cache-ak0.pinimg.com/564x/49/a8/68/49a8683717e4a37f557d251a4b1ce501.jpg
+
+https://s-media-cache-ak0.pinimg.com/564x/f2/35/f3/f235f33cfc44563b3c7005293a3e1f31.jpg
+
+
+
+https://letstalkpayments.com/an-overview-of-blockchain-technology/
+
+https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAhGAAAAJDdmZjZmMTQ3LWEzZTgtNDcyOS04ZjgzLTAzMjgxMWEwMDA4NQ.png
+https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAASQAAAAJGFhZDIyN2QxLWZhNDktNDlkZS05MGQ4LTZhZjI4Y2M2MTg1MA.png
+
+	
+# IBM 
+https://www.ibm.com/blockchain/
+
+# recordskeeper
+	https://recordskeeper.co/
+	
+	http://toshendra.com/2016/11/what-is-kyc-how-can-blockchain-can-help/
+	https://i1.wp.com/recordskeeper.co/wp-content/uploads/2015/06/case_3-1.png
+	
+	http://toshendra.com/2016/11/what-is-kyc-how-can-blockchain-can-help/
+	
+
+	The Ultimate Guide to Understanding Blockchain Smart Contracts
+	http://www.blockchaintechnologies.com/blockchain-smart-contracts
+	
+	
+	BLOCKCHAINS 101
+	https://www.blockcypher.com/dev/intro/
+  
