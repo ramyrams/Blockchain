@@ -16,7 +16,7 @@ Smart contract is like a character. Dapp is like a word. The difference is not i
 
 Dapps is decentralized applications built on top of blockchain technology. Some dapps are built on it’s own blockchain while most are based on popular blockchain networks like Bitcoin & Ethereum. Use the tools in the sidebar to find dapps with specific features built on top of certain blockchains.
 
-
+https://medium.com/@micheledaliessi/how-does-the-blockchain-work-98c8cd01d2ae
 # DApp Ecosystem
 Decentralized Data
 Decentralized Wealth
