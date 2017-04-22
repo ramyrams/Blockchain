@@ -38,6 +38,13 @@ https://due.com/blog/how-blockchain-might-change-payments-for-small-businesses/
 MORE MAINSTREAM COMPANIES INVEST IN BLOCKCHAIN
 https://due.com/blog/mainstream-companies-blockchain/
 
+
+https://www.ibm.com/blockchain/business-use-cases.html
+
+Six Upcoming Ethereum Projects
+http://www.altcointoday.com/upcoming-ethereum-projects/
+
+
 IMPROVING YOUR MERCHANT SERVICES
 https://due.com/blog/improving-merchant-services/
 
