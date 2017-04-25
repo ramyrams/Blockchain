@@ -4,7 +4,7 @@ https://www.hyperledger.org/
 
 Blockchain technology for business
 
-
+https://medium.com/tag/hyperledger
 As one of the folks who answered in that thread (and has experience with Hyperledger) I am happy to answer any questions. In brief:
 – The Hyperledger Project is underneath the Linux Foundation (not IBM), and is an incubator for multiple project submissions, including: Fabric (permissioned blockchain), Sawtooth Lake (also permissioned but adds Proof of Elapsed Time as the consensus model), Iroha (a lightweight C++ blockchain), Cello (a rapid deployment scheme for blockchains), Dashboard (what it says), and soon Corda (R3’s distributed ledger for banking).
 – Because it is run under the Linux Foundation it is true open source, and think of Hyperledger as being similar to Apache in that it curates multiple projects.
