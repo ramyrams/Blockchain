@@ -47,3 +47,21 @@ https://github.com/erm2wi/hyperledgerlearning
 https://github.com/GruberQZ/energy-trading-marketplace
 https://github.com/jumpjumpbean/HyperledgerHackathon
 
+
+https://github.com/satoshikumano/Hyperledger-Example
+https://github.com/pong-pantola/hyperledger-basics
+https://github.com/soramitsu/iroha-demo-javascript
+https://github.com/rameshthoomu/hyperledger.github.io
+https://github.com/vishwass/Hyperledger-Setup-tutorials
+https://github.com/Srinivasan1983/Hyperledger-Simple-CRUD-Operation
+https://github.com/BlueHC/hyperledger-learn-chaincode
+https://github.com/BlueHC/hyperledger-dev-setup
+https://github.com/clkwong/testing
+https://github.com/rtang03/fabric-cookbook
+https://github.com/predix/fabric-acceptance-tests
+https://github.com/DecodedCo/blockchain-vote
+https://github.com/sujayv/basic-blockchain-app
+https://github.com/xspeedcruiser/fabric-exercise
+https://github.com/jellevdp/advertisement-demo
+https://github.com/tiero/bpay-mobile-app
+
