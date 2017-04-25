@@ -1,5 +1,9 @@
 Block chain
 
+https://blog.craftworkz.co/seminar-blockchain-in-practice-6bf62466ce71
+
+
+
 As an exciting new alternative to traditional currency, centralized banking, and transaction methods, cryptocurrency was introduced as a mainstream product in 2009 with the appearance of Bitcoin. Since then, hundreds of other Internet currencies have emerged to provide numerous options of paying for goods and services across the world in a way that is both safe and anonymous. Cryptocurrenices are categorized as an alternative currency known as a digital currency for the very fact that they can work without having to undertake currency exchange rates.
 
 With the growth in use and acceptance as well as the realization that cryptocurrency can be used for financial and non-financial applications, more attention has been paid to the technology behind this alternative payment and transaction method.
