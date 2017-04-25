@@ -13,6 +13,7 @@ https://marketplace.visualstudio.com/items?itemName=ErikvCage.AntSharesSmartCont
 Version 1.1 of Solidity Extension released!
 https://blogs.msdn.microsoft.com/caleteet/2016/06/19/version-1-1-of-solidity-extension-released/
 
+https://github.com/vitiko/solidity-doc
 https://github.com/raineorshine/solgraph
 https://github.com/duaraghav8/Solium
 https://github.com/madvas/ethlance
