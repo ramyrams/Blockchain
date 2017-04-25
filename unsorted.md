@@ -573,3 +573,31 @@ https://www.ibm.com/blockchain/
 	BLOCKCHAINS 101
 	https://www.blockcypher.com/dev/intro/
   
+
+https://github.com/iurimatias/embark-framework
+https://github.com/ethereum/solidity
+https://github.com/ethereum/web3.js
+https://github.com/jpmorganchase/quorum
+https://github.com/trufflesuite/truffle
+https://github.com/OpenZeppelin/zeppelin-solidity
+https://github.com/harshjv/donut
+https://github.com/Nethereum/Nethereum
+https://github.com/raineorshine/solgraph
+https://github.com/jpmorganchase/cakeshop
+https://github.com/pipermerriam/populus
+https://github.com/ethjs/ethjs
+https://github.com/JoinColony/solcover
+https://github.com/karalabe/hive
+https://github.com/daostack/daostack
+https://github.com/raineorshine/solidity-sha3
+https://github.com/web3j/quorum
+https://github.com/maheshmurthy/ethereum_voting_dapp
+https://github.com/xasos/awesome-decentralized-papers
+https://github.com/niksmac/ethereum-scripts
+https://github.com/DevanaLabs/lemon.email-dApp
+https://github.com/croqaz/awesome-decentralized
+https://github.com/sqli-nantes/ethereum-android
+https://github.com/EthereumEx/ethereum-arm-templates
+https://github.com/artjoma/actis
+https://github.com/blockapps/blockapps-rest
+https://github.com/dmichael/cosmos
