@@ -1,5 +1,9 @@
 # Blockchain
 
+Good introduction
+https://blog.craftworkz.co/dip-your-toe-into-smart-contracts-with-ethereum-cf8aa476d0d7
+
+
 website vs Dapp
 
 Front End → API → Database
