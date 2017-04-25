@@ -41,7 +41,11 @@ Dapp Economics
 	https://ethereum.org/dao
 	
 	pyethereum - https://github.com/ethereum/pyethereum
-	
+
+
+
+https://medium.com/wearetheledger/live-from-eventhorizon-blockchain-energy-644149f8331b
+
 # Semantic Ethereum
 	https://media.consensys.net/ethon-introducing-semantic-ethereum-15f1f0696986
 # Smart Contracts 
