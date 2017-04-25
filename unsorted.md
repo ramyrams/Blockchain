@@ -34,6 +34,30 @@ http://joel.mn/post/103546215249/the-blockchain-application-stack
 
 
 
+Introducing Token
+https://blog.tokenbrowser.com/introducing-token-2f2ceeab6d4c
+
+
+https://media.consensys.net/the-birth-of-enterprise-ethereum-in-2017-ebe7f7abed92
+
+
+https://media.consensys.net/microsoft-brings-consensys-built-developer-toolkit-truffle-to-enterprise-5725ea8d0365
+
+
+
+https://github.com/hyperledger/fabric
+
+
+
+https://www.altoros.com/blog/hyperledger-meets-ethereum-integration-future/
+
+
+https://www.altoros.com/blog/tag/hyperledger/
+
+
+https://www.altoros.com/blog/hyperledger-vs-ethereum-yes-no-maybe/
+
+
 * [8 BLOCKCHAIN APPLICATIONS THAT COULD HELP YOUR SMALL BUSINESS](https://due.com/blog/8-blockchain-applications-help-small-business/)
 
 HOW BLOCKCHAIN MIGHT CHANGE PAYMENTS FOR SMALL BUSINESSES
