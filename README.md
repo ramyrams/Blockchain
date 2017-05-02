@@ -245,3 +245,9 @@ http://courses.blockgeeks.com/courses/take/blockchain-faqs-answered-in-1-hour/le
 http://courses.blockgeeks.com/courses/take/blockchain-glossary-learn-blockchain-frequently-used-terms/lessons/991023-1-introduction-overview
 http://courses.blockgeeks.com/courses/take/bitcoin-and-cryptocurrency-technologies-online-course/texts/893555-intro-to-crypto-and-cryptocurrencies
 https://academy.b9lab.com/courses/B9lab/X16-0/2016/courseware/350259f977104a77a5708ac18c38824a/
+
+Enterprise Blockchain Consortiums
+http://bankinnovation.net/2017/03/enterprise-blockchain-consortiums-part-1/
+
+Blockchain: A Distributed ledger
+https://mastanbtc.github.io/blockchainnotes/blockchainintro/
