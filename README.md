@@ -35,6 +35,14 @@ Practical Decentralization
 
 Dapp Economics
 
+
+An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain
+https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/
+
+An Introduction to Ethereum and Smart Contracts: Bitcoin & The Blockchain
+https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts/
+
+
 # Ethereum
 	https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990
 	https://ethereum.github.io/go-ethereum/
