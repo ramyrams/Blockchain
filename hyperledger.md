@@ -4,6 +4,11 @@ https://www.hyperledger.org/
 
 https://blog.craftworkz.co/run-hyperledger-locally-with-docker-4f3bcb815c03
 
+https://www.altoros.com/blog/hyperledger-ethereum-discussion-makes-p2p-b2b-distinction/
+
+https://www.altoros.com/blog/how-hyperledger-fabric-delivers-security-to-enterprise-blockchain/
+
+
 Blockchain technology for business
 
 https://medium.com/tag/hyperledger
