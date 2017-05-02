@@ -5,6 +5,12 @@ https://hyperledger-fabric.readthedocs.io/en/latest/
 https://blockchain-finance.com/wp-content/uploads/2016/03/Hyperledger-architecture.png
 
 
+https://www.altoros.com/blog/tag/hyperledger/
+
+Introduction to Blockchain and the Hyperledger Project
+https://www.slideshare.net/ManuelGarcia122/introduction-to-blockchain-and-the-hyperledger-project
+
+
 https://www.ibm.com/blockchain/hyperledger.html
 
 https://www.hyperledger.org/
