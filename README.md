@@ -167,6 +167,21 @@ https://goupadhyblog.wordpress.com/2017/01/16/hyperledger-vs-ehtereum-vs-ripple-
 
 https://goupadhyblog.wordpress.com/2017/01/15/potential-blockchain-use-cases/
 
+# Video
+* [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/home/welcome)
+* [IBM Blockchain for developers](https://developer.ibm.com/courses/all-courses/blockchain-for-developers/)
+* [3 Free Courses](http://courses.blockgeeks.com/collections)
+* [Bitcoin & the Blockchain](https://onemonth.com/courses/blockchain)
+* [Video lectures and courses](https://github.com/digital-dreamer/blockchain-programming/wiki/Video-lectures-and-courses)
+* [Welcome to Ethereum 101!](https://academy.b9lab.com/courses/B9lab/X16-0/2016/info)
+* [Blockchain University Courses](http://blockchainu.co/upcoming/)
+* [INVESTIGATING THE POTENTIAL OF BLOCKCHAINS](http://blockchain.open.ac.uk/)
+* [Blockchain Academy](http://www.blockchain.org.in/)
+* [Microsoft Blockchain as a Service](https://mva.microsoft.com/en-us/training-courses/microsoft-blockchain-as-a-service-17104?l=aZrQbG3SD_3206218965)
+* [Free Videos](http://www.blockchainworkspace.com/training/free/)
+* [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw)
+* [Ethereum](https://www.youtube.com/user/ethereumproject)
+
 
 	
 # Lighthouse
