@@ -1,5 +1,7 @@
 Block chain
 
+http://blogs.gartner.com/rajesh-kandaswamy/gartners-cool-vendors-blockchain-applications/
+
 https://blog.craftworkz.co/seminar-blockchain-in-practice-6bf62466ce71
 
 
