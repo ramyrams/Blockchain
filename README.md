@@ -259,3 +259,30 @@ http://bankinnovation.net/2017/03/enterprise-blockchain-consortiums-part-1/
 
 Blockchain: A Distributed ledger
 https://mastanbtc.github.io/blockchainnotes/blockchainintro/
+
+
+What does $100 Ether mean?
+https://medium.com/humanizing-the-singularity/what-does-ether-100-mean-bb58522f781e
+
+Ethereum Growing Exponentially in China
+https://medium.com/@andrewkeys_88339/ethereum-growing-exponentially-in-china-31f1d24c8ee9
+
+https://medium.com/tag/ethereum
+
+https://medium.com/tag/blockchain
+
+
+How does the Blockchain Work (for Dummies) explained simply
+https://medium.com/the-intrepid-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093
+
+
+Blockchain Tokens and the dawn of the Decentralized Business Model
+https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
+
+How to Raise Money on a Blockchain with a Token
+https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa
+
+Blockchain: The Pro's and Con's of a Technology that Will Affect our Future
+https://medium.com/totvslabs/blockchain-the-pros-and-con-s-of-a-technology-that-will-affect-our-future-f67037da7d64
+
+
