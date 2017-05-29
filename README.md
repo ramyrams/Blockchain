@@ -285,4 +285,15 @@ https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cd
 Blockchain: The Pro's and Con's of a Technology that Will Affect our Future
 https://medium.com/totvslabs/blockchain-the-pros-and-con-s-of-a-technology-that-will-affect-our-future-f67037da7d64
 
+Blockchain Can Revolutionize EHRs With Optimum Security and Interoperability 
+https://dzone.com/articles/blockchain-can-revolutionize-ehrs-with-optimum-sec
+
+Blockchain: Everything You Need to Know
+https://dzone.com/articles/blockchain-everything-you-need-to-know?fromrel=true
+
+Smart Contract Security: How to Never Break the Blockchain 
+https://dzone.com/articles/smart-contract-security-how-to-never-break-the-blo?fromrel=true
+
+Berlin, the Blockchain Capital of the World?
+https://dzone.com/articles/berlin-the-blockchain-capital-of-the-world?fromrel=true
 
