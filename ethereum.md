@@ -5,3 +5,8 @@ https://dzone.com/articles/an-introduction-to-ethereum-and-smart-contracts-a
 
 Contracts: A Programmable Blockchain, Part 3 
 https://dzone.com/articles/an-introduction-to-ethereum-and-smart-contracts-a-2
+
+
+https://dzone.com/articles/authentication-ethereum-and-smart-contracts-part-3
+https://dzone.com/articles/authentication-ethereum-and-smart-contracts-part-2
+https://dzone.com/articles/authentication-ethereum-and-smart-contracts
