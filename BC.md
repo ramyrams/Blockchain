@@ -21,3 +21,40 @@
 # Business Network
 ![1](https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=yoDynyOEckjDbfhKhMehDV%2FZaVo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfya4fs7dfOGkuVwQcSQclABnLfKgSWbkD5W1KN7rft112ZXjI424ZxUBbFImi24)
 * [An Example Business Network -- Car Auction Market](https://www.youtube.com/watch?v=MgSKkrlLugQ)
+
+
+Business Network
+  * Participants are customers, suppliers, banks, partners
+  * Cross geography & gegulatory boundary
+
+Wealth 
+  * Geneated by the folw of goods & services accorss business network in transcations and contracts
+
+Markets
+* Public (Fruit market, car auction)
+* Private (Supply chain finanacing, bonds)
+
+
+# Transferring assets, building value 
+* Anything that is capable of being owned or controlled to produce value is asert
+
+* Two funtamental types of asset
+  * Tangible, e.g. a house
+  * Intangible, e.g. a mortgage
+    * Intangible assets subdivide
+      * Finacial ex: bond
+      * Intellectual, ex: patents
+      * Digital, Ex: Music
+
+* Cash is also an asset
+  * Has property of anonymity
+  
+# Ledgers
+* **Ledger** is it is system of record for a business. Business will have multiple ledgers for multiple business network in which they participate.
+* **Transcation** - An assert trasnfer onto or off the ledger
+  * John gives a car to Mike
+* **Contract** conditipons for transcation to occur
+  * If Mike pays John money, then car passes from John to Mike
+  * if car won't start, function do not pass to John
+
+
