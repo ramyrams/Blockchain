@@ -23,16 +23,14 @@
 * [An Example Business Network -- Car Auction Market](https://www.youtube.com/watch?v=MgSKkrlLugQ)
 
 
-Business Network
+* Business Network
   * Participants are customers, suppliers, banks, partners
   * Cross geography & gegulatory boundary
-
-Wealth 
+* Wealth 
   * Geneated by the folw of goods & services accorss business network in transcations and contracts
-
-Markets
-* Public (Fruit market, car auction)
-* Private (Supply chain finanacing, bonds)
+* Markets
+  * Public (Fruit market, car auction)
+  * Private (Supply chain finanacing, bonds)
 
 
 # Transferring assets, building value 
