@@ -134,3 +134,57 @@ Trust
   * Trancations cannot be modified, inserted or deleted
 * Achieved through consensus, provenance, immutability and finality
 
+
+
+
+Why is Blockchain Relevant for Business
+Consensus: Shared Reference Data Example
+https://image.slidesharecdn.com/blockchainsecuritywebinar-22nov16v1-161128135402/95/top-blockchain-security-challenges-you-should-think-about-34-638.jpg?cb=1480341347
+
+Provenance: Supply Chain Example
+https://developer.ibm.com/courses/all/blockchain-essentials/?course=begin#8662
+Immutability: Audit and Compliance Example
+https://image.slidesharecdn.com/blockchainsecuritywebinar-22nov16v1-161128135402/95/top-blockchain-security-challenges-you-should-think-about-35-638.jpg?cb=1480341347
+
+Finality: Letter of Credit Example
+https://image.slidesharecdn.com/blockchainsecuritywebinar-22nov16v1-161128135402/95/top-blockchain-security-challenges-you-should-think-about-36-638.jpg?cb=1480341347
+
+
+
+https://www.slideshare.net/ibmsecurity/top-blockchain-security-challenges-you-should-think-about
+
+
+
+Industry Use Cases
+* Finacial
+  * Trade Finacne
+  * Cross current payment
+  * Mortgages
+
+* Public Seco
+
+https://www.youtube.com/watch?v=cHe_ow9v094
+
+
+# Use Case
+https://letstalkpayments.com/an-overview-of-blockchain-technology/
+https://dupress.deloitte.com/content/dam/dup-us-en/articles/using-blockchain-for-smart-contracts/ER_2833_Table.1a.jpg
+https://medium.com/cuepoint/how-the-blockchain-can-change-the-music-industry-part-2-c1fa3bdfa848
+https://www.freightwaves.com/news/blockchain-use-case
+https://www.slideshare.net/IBTSMG/blockchain-use-cases-75417476
+https://www.youtube.com/watch?v=cHe_ow9v094
+
+
+If no bussines network then scope for BC is less butter go with distruted api Refer (https://www.youtube.com/watch?time_continue=152&v=ryF1Cf-7TVQ)
+
+Customer Adoption
+Pattern of cusotmer Adoption
+https://www.youtube.com/watch?time_continue=183&v=MV-IgoDYPHU
+
+
+What is the primary benefit of immutability? Answer: Tamper-proof
+
+
+https://govidat.github.io/blog/post/blockchain-basics/
+
+
