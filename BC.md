@@ -56,3 +56,25 @@
   * if car won't start, function do not pass to John
 
 
+The Problem Area
+Partocipant A reords
+Partocipant A reords
+Bank records
+Insuer records
+Regular Records
+Aditor Records
+
+Inefficent, expenseive, valnerable
+
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAh9AAAAJDdlNTBhZjljLWUxMWEtNDc2YS04MTc0LTI5MzcyZGIwMGJiNg.png
+
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAd8AAAAJDI3ZjExZDc3LTA0NGItNDBiNC1hMTEzLTE2NWUyNDBiZDQwNw.png
+
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAd3AAAAJGQwY2FjMDZlLWJhZGYtNGJiMi04ZmM1LTUxMDUyODcyYmQzYw.png
+
+Blockchain replacement
+https://i.ytimg.com/vi/lUWIOLbcuOc/maxresdefault.jpg
+
+
+
+https://www.linkedin.com/pulse/blockchain-business-goutham-upadhyaya
