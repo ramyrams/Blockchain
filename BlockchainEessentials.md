@@ -182,6 +182,24 @@ Pattern of cusotmer Adoption
 https://www.youtube.com/watch?time_continue=183&v=MV-IgoDYPHU
 
 
+
+Transfer assets in a business blockchain
+Transferring assets is the heart of blockchain. How can people buy and sell or transfer goods in a business network without any central governing body or policy?
+The following video demonstrates exactly that: how an asset, such as a car, can be transferred (bought or sold) to other people. That process is compared to the traditional way assets (goods or services) are transferred between different people.
+
+
+# Blockchain Car leasing Demo
+https://github.com/IBM-Blockchain/car-lease-demo
+https://www.youtube.com/watch?time_continue=127&v=LUZp4SsExXU
+https://console.bluemix.net/docs/services/blockchain/ibmblockchain_tutorials.html
+https://blockchainage.com/ibm-blockchain-car-lease-demo/
+
+# Demo 2
+https://github.com/anders94/blockchain-demo
+https://anders.com/blockchain/blockchain.html
+https://blockchainage.com/blockchain-101-a-visual-demo/
+
+
 What is the primary benefit of immutability? Answer: Tamper-proof
 
 
