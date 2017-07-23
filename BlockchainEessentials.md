@@ -188,3 +188,10 @@ What is the primary benefit of immutability? Answer: Tamper-proof
 https://govidat.github.io/blog/post/blockchain-basics/
 
 
+
+https://bravenewcoin.com/news/moodys-new-report-identifies-25-top-blockchain-use-cases-from-a-list-of-120/
+https://www.provenance.org/whitepaper
+
+
+Must see use case
+https://www.provenance.org/technology
