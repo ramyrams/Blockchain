@@ -195,3 +195,19 @@ https://www.provenance.org/whitepaper
 
 Must see use case
 https://www.provenance.org/technology
+
+
+
+https://www.slideshare.net/plucena/blockchain-technology-details
+
+https://www.slideshare.net/wmougayar/redefining-security-with-the-blockchain-by-william-mougayar
+
+https://www.slideshare.net/ManuelGarcia122/introduction-to-blockchain-and-the-hyperledger-project
+
+
+https://cdn.static-economist.com/sites/default/files/images/print-edition/20151031_FBC911.png
+
+
+https://www.economist.com/news/briefing/21677228-technology-behind-bitcoin-lets-people-who-do-not-know-or-trust-each-other-build-dependable
+
+
