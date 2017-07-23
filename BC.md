@@ -84,3 +84,53 @@ https://i.ytimg.com/vi/lUWIOLbcuOc/maxresdefault.jpg
 
 
 https://www.linkedin.com/pulse/blockchain-business-goutham-upadhyaya
+
+
+
+
+Discover Blockchain
+
+https://i.ytimg.com/vi/ycZPhLTxqyY/maxresdefault.jpg
+
+https://dupress.deloitte.com/dup-us-en/focus/tech-trends/2016/blockchain-applications-and-trust-in-a-global-economy.html
+
+http://www.finyear.com/Explaining-the-Blockchain-s-Impact-via-an-Infographic_a34680.html
+
+
+https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/fig8.png
+
+https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/index.html
+
+
+
+Shared Ledger
+* Records all the transcations accross business network
+* shared between participants
+* Participants have own copy through replication
+* Permissioned, so participants see only appropirate transcations
+* The shared system of record
+
+
+Smart Contracts
+Business rules implied by the contract, embedded in the Blokchain and executed with the transcation
+Verifie, signed
+Encoded in programming language
+Example: Defineds contracual conditions under which corporate bond transfer occures
+
+Privacy
+* The ledger is shared but participants require privacy
+* Participants needs
+  * Appropriate confidentality between subsets of participants
+  * idendity not linked to a transcation
+* Transcations needs to be authenticated
+* Cryptography central to these processes
+
+Trust
+* THe ledger is a trusted source of information
+* participants endorse transcations
+  * Business network decides who will endorder transcations
+  * Endorsed trascation are added to the ledger with appropriate confidentiality
+* Asserts have a verifiable audit trails
+  * Trancations cannot be modified, inserted or deleted
+* Achieved through consensus, provenance, immutability and finality
+
