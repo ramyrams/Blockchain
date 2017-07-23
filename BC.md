@@ -70,6 +70,12 @@ https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAh9AAAAJDdlNTBhZjljLWUxMWEtNDc2YS04
 
 https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAd8AAAAJDI3ZjExZDc3LTA0NGItNDBiNC1hMTEzLTE2NWUyNDBiZDQwNw.png
 
+For functamantal compoment of block chain
+* Shared Ledger
+* Smart Contract
+* Privacy
+* Trust
+
 https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAd3AAAAJGQwY2FjMDZlLWJhZGYtNGJiMi04ZmM1LTUxMDUyODcyYmQzYw.png
 
 Blockchain replacement
