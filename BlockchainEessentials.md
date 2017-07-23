@@ -85,6 +85,30 @@ https://i.ytimg.com/vi/lUWIOLbcuOc/maxresdefault.jpg
 
 https://www.linkedin.com/pulse/blockchain-business-goutham-upadhyaya
 
+Hash function
+	One way function
+	Any degital data (bit, text, number, image, file, font)
+	COmpletely diffrent if you add a bit
+	No ways to geenrate input based on output
+
+	Quetion, hasing vs encrpete
+
+https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#gs.0=AdERw
+https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#gs.3IRIuCI
+https://www.davidtan.org/differences-between-encryption-vs-encoding-vs-hashing/
+https://www.davidtan.org/differences-between-encryption-vs-encoding-vs-hashing/
+https://gooroo.io/GoorooTHINK/Article/13023/The-difference-between-encryption-hashing-and-salting/2085#.WXT3nYjytPY
+
+
+Merkel works
+	Data Stucture
+
+Bloch Chain
+	All BC will have some kind of root
+	When the transcation happened, it will be added to root and create new root
+
+
+https://www.youtube.com/watch?v=ZDAuELguhQQ
 
 
 
