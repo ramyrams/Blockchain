@@ -47,7 +47,56 @@
 * A private key is a string of data that shows you have access to bitcoins in a specific wallet. 
 * Think of a private key like a password; private keys must never be revealed to anyone but you, as they allow you to spend the bitcoins from your bitcoin wallet through a cryptographic signature.
 
+## BIP
+* Bitcoin Improvement Proposal or BIP, is a technical design document providing information to the bitcoin community, or describing a new feature for bitcoin or its processes or environment which affect the Bitcoin protocol. 
+* New features, suggestions, and design changes to the protocol should be submitted as a BIP. 
+* The BIP author is responsible for building consensus within the community and documenting dissenting opinions.
 
+## Cold Storage
+* The term cold storage is a general term for different ways of securing your bitcoins offline (disconnected from the internet). 
+* This would be the opposite of a hot wallet or hosted wallet, which is connected to the web for day-to-day transactions. 
+* There are different ways to secure your bitcoins offline, such as using a paper wallet or a hardware device. 
+* The purpose of using cold storage is to minimize the chances of your bitcoins being stolen from a malicious hacker and is commonly used for larger sums of bitcoins.
+
+## Cryptography
+* Cryptography is used in multiple places to provide security for the Bitcoin network. 
+* Cryptography, which is essentially mathematical and computer science algorithms used to encrypt and decrypt information, is used in bitcoin addresses, hash functions, and the block chain.
+
+## Decentralized
+* Having a decentralized bitcoin network is a critical aspect. 
+* The network is “decentralized,” meaning that it’s void of a centralized company or entity that governs the network. 
+* Bitcoin is a peer-to-peer protocol, where all users within the network work and communicate directly with each other, instead of having their funds handled by a middleman, such as a bank or credit card company.
+
+## Full Node
+* A full node is when you download the entire block chain using a bitcoin client, and you relay, validate, and secure the data within the block chain. 
+* The data is bitcoin transactions and blocks, which is validated across the entire network of users.
+
+## Hash Rate
+* The hash rate is how the Bitcoin mining network processing power is measured. 
+* In order for miners to confirm transactions and secure the block chain, the hardware they use must perform intensive computational operations which is output in hashes per second.
+
+## Proof of Work
+* Proof of work refers to the hash of a block header (blocks of bitcoin transactions). 
+* A block is considered valid only if its hash is lower than the current target. 
+* Each block refers to a previous block adding to previous proofs of work, which forms a chain of blocks, known as a block chain. 
+* Once a chain is formed, it confirms all previous Bitcoin transactions and secures the network.
+
+## Public Address
+* A public bitcoin address is cryptographic hash of a public key. 
+* A public address typically starts with the number “1.” Think of a public address like an email address. 
+* It can be published anywhere and bitcoins can be sent to it, just like an email can be sent to an email address.
+
+
+## Transaction
+* A transaction is when data is sent to and from one bitcoin address to another. Just like financial transactions where you send money from one person to another, in bitcoin you do the same thing by sending data (bitcoins) to each other. Bitcoins have value because it’s based on the properties of mathematics, rather than relying on physical properties (like gold and silver) or trust in central authorities, like fiat currencies. Click here to learn about transaction fees that can apply when using bitcoin.
+* A sample of a transaction as displayed using the Blockchain Block Explorer. Click to be taken to this transaction details page.
+* A sample of a transaction; click the image to view it using the Blockchain Block Explorer.
+
+# Wallet
+* Just like with paper dollars you hold in your physical wallet, a bitcoin wallet is a digital wallet where you can store, send, and receive bitcoins securely. 
+* There are many varieties of wallets available, whether you’re looking for a web or mobile solution. 
+* Ideally, a bitcoin wallet will give you access to your public and private keys. 
+* This means that only you have rightful access to spend these bitcoins, whenever you choose to.
 
 
 
