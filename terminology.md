@@ -500,4 +500,6 @@ Wallet
 A file that houses private keys. It usually contains a software client which allows access to view and create transactions on a specific blockchain that the wallet is designed for.
 
 
+https://hackernoon.com/blockchain-dictionary-f4d098c9ef89
+http://news.dinbits.com/p/dinbits-terminology.html
 
