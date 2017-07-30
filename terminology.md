@@ -1,3 +1,55 @@
+# bitcoin terms
+
+## Block
+* Blocks are found in the Bitcoin block chain. Blocks connect all transactions together. 
+* Transactions are combined into single blocks and are verified every ten minutes through mining. 
+* Each subsequent block strengthens the verification of the previous blocks, making it impossible to double spend bitcoin transactions.
+
+## Block Chain
+* Bitcoin block chain is a public record of all Bitcoin transactions. 
+* “public ledger.” The block chain shows every single record of bitcoin transactions in order, dating back to the very first one.
+* The entire block chain can be downloaded and openly reviewed by anyone, or you can use a block explorer to review the block chain online.
+
+## Block Height
+* The block height is just the number of blocks connected together in the block chain. 
+* Height 0 for example refers to the very first block, called the “genesis block.”
+
+## Change
+* Let’s say you are spending $1.90 in your local super market, and you give the cashier $2.00. 
+* You will get back .10 cents in change. The same logic applies to bitcoin transactions. 
+* Bitcoin transactions are made up of inputs and outputs. 
+* When you send bitcoins, you can only send them in a whole “output.” The change is then sent back to the sender.
+
+## Confirmation
+* A confirmation means that the bitcoin transaction has been verified by the network, through the process known as mining. 
+* Once a transaction is confirmed, it cannot be reversed or double spent. Transactions are included in blocks.
+
+## Difficulty
+* Difficulty is directly related to Bitcoin mining, and how hard it is to verify blocks in the Bitcoin network. 
+* Bitcoin adjusts the mining difficulty of verifying blocks every 2016 blocks. 
+* Difficulty is automatically adjusted to keep block verification times at ten minutes.
+
+## Double Spend
+* If someone tries to send a bitcoin transaction to two different recipients at the same time, this is double spending. 
+* Once a bitcoin transaction is confirmed, it makes it nearly impossible to double spend it. 
+* The more confirmations that a transaction has, the harder it is to double spend the bitcoins.
+
+## Halving
+* Bitcoins have a finite supply, which makes them scarce. The total amount that will ever be issued is 21 million. 
+* The number of bitcoins generated per block is decreased 50% every four years. 
+* This is called “halving.” The final halving will take place in the year 2140.
+
+## Mining
+* Bitcoin mining is the process of using computer hardware to do mathematical calculations for the Bitcoin network in order to confirm transactions. 
+* Miners collect transaction fees for the transactions they confirm and are awarded bitcoins for each block they verify.
+
+## Private Key
+* A private key is a string of data that shows you have access to bitcoins in a specific wallet. 
+* Think of a private key like a password; private keys must never be revealed to anyone but you, as they allow you to spend the bitcoins from your bitcoin wallet through a cryptographic signature.
+
+
+
+
 
 51% Attack & Eclipse Attack
 Bitcoin
