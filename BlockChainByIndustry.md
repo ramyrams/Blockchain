@@ -88,5 +88,5 @@ Your intedusc
 managing hiring employees in a company. Colony.io
 
 https://www.cbinsights.com/research/industries-disrupted-blockchain/
-
+https://everisnext.com/2016/05/31/blockchain-disruptive-use-cases/
 https://img.huffingtonpost.com/asset/5963898f1500004800bfccde.jpg?ops=scalefit_820_noupscale
