@@ -82,3 +82,9 @@ Cryptocurrency
 Cryptography
 Public & Private Key (PKI Infrastructure)
 Symmetric Key
+
+https://blog.blockchain.com/2014/10/29/quick-bit-understanding-bitcoin-transaction-fees/
+https://blog.blockchain.com/2016/07/01/breaking-it-down-bitcoin-units-of-measurement/
+https://blog.blockchain.com/2016/12/15/bitcoin-transaction-fees-what-are-they-why-should-you-care/
+
+https://blog.blockchain.com/2017/01/04/intro-to-bitcoin-development/
