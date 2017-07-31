@@ -1,5 +1,10 @@
 
 
+
+# Wallet Security
+https://glacierprotocol.org/releases/Glacier%20Protocol%20Document%20v0.91%20Beta.pdf
+
+
 https://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/
 https://hubpages.com/technology/Mining-for-Bitcoins-A-Step-by-Step-Guide-for-Beginners
 https://99bitcoins.com/beginners-guide-to-mining/
