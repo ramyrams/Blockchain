@@ -1,5 +1,5 @@
 Block chain
-
+https://www.coinwarz.com/calculators
 https://static1.squarespace.com/static/5759720940261d73c67f8dc3/t/58dc0252cd0f680e915d8a8d/1490813542918/Overview+examples+public+vs.+private+blockchains.png?format=1000w
 https://www.cloudcomputing-news.net/media/xrsz_blockchain-beyond-bitcoin_f_rgb_web.jpg.pagespeed.ic.3E8AbXlcKO.webp
 
