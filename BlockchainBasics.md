@@ -3,6 +3,9 @@ https://blockchainhub.net/blockchain-glossary/
 # Awesome Bluechain
 https://github.com/Xel/Blockchain-stuff#courses
 
+![Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+
+
 ![1](https://blockgeeks.com/wp-content/uploads/2017/05/infographics2-02-1024x488.png)
 ![1](https://blockgeeks.com/wp-content/uploads/2017/06/infographics-02New.png)
 
