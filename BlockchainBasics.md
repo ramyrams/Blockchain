@@ -1,5 +1,12 @@
 https://blockchainhub.net/blockchain-glossary/
 
+# Using Bitcoin is as easy as Email!
+|Email  |Bitcoin   |
+|---|---|
+|1. Open an email account and get an email address   | Open a Bitcoin Wallet and get a Bitcoin address  |
+|2. Access your email account to see all the emails you’ve sent and received  | Access your Bitcoin wallet to see all the bitcoins you’ve sent and received (known as Bitcoin transactions)  |
+|3. Receive an email from a friend by sharing your email address   |Receive bitcoins from a friend by sharing your bitcoin address (this is one way to get bitcoins)   |
+|4. Send an email virtually for free to a friend by entering their email address   |Send bitcoins virtually free to a friend by entering their Bitcoin address   |
 
 To show how these 4 parts work together, let’s pretend that Aisha wants to send 1 Bitcoin (“BTC”) to Bashir.** Here’s what happens:
 1. **Aisha asks the Miners the send 1 BTC from her Bitcoin address (“1AcL2…”) to Bashir’s Bitcoin address (“1Bq34…”). This “request” is actually a Bitcoin transaction.
