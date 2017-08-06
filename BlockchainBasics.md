@@ -1,5 +1,14 @@
 https://blockchainhub.net/blockchain-glossary/
 
+
+To show how these 4 parts work together, let’s pretend that Aisha wants to send 1 Bitcoin (“BTC”) to Bashir.** Here’s what happens:
+1. **Aisha asks the Miners the send 1 BTC from her Bitcoin address (“1AcL2…”) to Bashir’s Bitcoin address (“1Bq34…”). This “request” is actually a Bitcoin transaction.
+
+2. **The Miners audit her transaction.** They check that the transaction is valid and verify that Aisha is allowed to move the money. They do this second part by checking the Block Chain to confirm that she has enough bitcoin at her address to make the payment and that she isn’t also trying to send the same bitcoin to someone else at same time (i.e. “double-spending”)
+
+3. **Once the transaction is approved and the Block Chain is updated, Bashir has the bitcoin.** He doesn’t need to take any action to receive it, but if he were to check the Block Chain now he would see an extra bitcoin at his address.
+
+
 # Awesome Bluechain
 https://github.com/Xel/Blockchain-stuff#courses
 
