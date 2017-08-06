@@ -9,6 +9,24 @@ To show how these 4 parts work together, let’s pretend that Aisha wants to sen
 3. **Once the transaction is approved and the Block Chain is updated, Bashir has the bitcoin.** He doesn’t need to take any action to receive it, but if he were to check the Block Chain now he would see an extra bitcoin at his address.
 
 
+What is the Block Chain?
+The Block Chain is a public record (or “ledger”) of how much bitcoin belongs to each and every bitcoin address. Basically, it keeps track of where all the bitcoins are.
+
+
+What are addresses?
+A Bitcoin address, like a bank account number, is where your bitcoins are stored. It is also what you share publicly with people to receive money. It is represented by a series of numbers and letters: 1Lqx7VV1u4q9QRY2f64Bd17ZVc8XZCHZbT
+
+What are miners?
+Miners are the “auditors” or “referees” of the Block Chain – they make sure all Bitcoin transactions are valid and that no one is tampering with the Block Chain. Specifically miners are Bitcoin users who have chosen to run special software which does the auditing automatically – in return for their efforts Miners are given bitcoin.
+
+
+
+What are transactions?
+A Bitcoin transaction is like any other financial transaction (like credit card purchases or Paypal money transfers): it records the movement of funds from one account to another. Specifically a Bitcoin transaction updates the Block Chain to record the movement of bitcoin from one bitcoin address to another.
+
+
+
+
 # Awesome Bluechain
 https://github.com/Xel/Blockchain-stuff#courses
 
