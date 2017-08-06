@@ -20,6 +20,14 @@ https://live.blockcypher.com/btc/tx/28b3e5a8642eae953b278d8f5a19a59f4b1d703d1eea
 ![1](https://blockgeeks.com/wp-content/uploads/2017/06/infographics-02New.png)
 
 
+* [Blockchain 101 - A Visual Demo - Must see](https://www.youtube.com/watch?v=_160oMzblY8&t=233s)
+* [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+
+
+Bitcoin Mining: A Closer Look Under the Hood
+https://news.bitcoin.com/bitcoin-mining-closer-look-hood/
+
+
 https://blockchainhub.net/infographics/
 
 # Blockchain Intro
