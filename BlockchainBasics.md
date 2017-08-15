@@ -37,13 +37,14 @@ A Bitcoin transaction is like any other financial transaction (like credit card 
 # Awesome Bluechain
 https://github.com/Xel/Blockchain-stuff#courses
 
+
 ![Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
 
 https://live.blockcypher.com/btc/tx/28b3e5a8642eae953b278d8f5a19a59f4b1d703d1eea592df81514570525b94c/
 
 ![1](https://blockgeeks.com/wp-content/uploads/2017/05/infographics2-02-1024x488.png)
 ![1](https://blockgeeks.com/wp-content/uploads/2017/06/infographics-02New.png)
-
+![1](http://www.supplychain247.com/images/article/HowBlockchainWorks_diagram.png)
 
 * [Blockchain 101 - A Visual Demo - Must see](https://www.youtube.com/watch?v=_160oMzblY8&t=233s)
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
