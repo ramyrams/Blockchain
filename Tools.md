@@ -3,7 +3,7 @@ oraclize.it/
 https://remix.ethereum.org
 
 https://www.factom.com/
-
+http://www.bitcoinblockhalf.com/
 Sample Eth App
 https://www.vdice.io/
 https://fdd.etherisc.com/
