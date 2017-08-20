@@ -1,7 +1,7 @@
 https://metamask.io/
 oraclize.it/
 https://remix.ethereum.org
-
+https://blockchain.info/pools
 https://www.factom.com/
 http://www.bitcoinblockhalf.com/
 Sample Eth App
