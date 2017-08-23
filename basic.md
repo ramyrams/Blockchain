@@ -1,3 +1,15 @@
+
+Address : 1mtgoxNrDZgrs6zP1MdEToSNTAeeeU2VH
+Transaction : f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
+Conflicting Transaction : d09a330fc8763b94ba8753824063830d9f80db9a097a9dfc02e1aeb66fe5406d
+Block : 481737
+
+View Live Block : https://tradeblock.com/bitcoin/
+
+Mining New: https://tradeblock.com/bitcoin/mining/
+
+
+
 Imagine you go to a cafe and buy a coffee. The purchasing of a coffee implies a transaction where two goods have been exchanged.
 
 In particular, the vendor hands you a beverage and the customer, give a token in exchange, which represents an accorded value (be it coins or bills).
