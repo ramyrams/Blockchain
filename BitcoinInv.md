@@ -22,3 +22,10 @@ https://youtu.be/QBFNaCNlBdk
 
 How Bitcoin Mining works | Bitcoin Mining explained 2017
 https://youtu.be/E0TIaELzdpc
+
+https://coinomi.com/
+https://www.exodus.io/releases/
+https://poloniex.com/lending#BTC
+https://www.multichain.com/blog/2016/11/understanding-zero-knowledge-blockchains/
+https://gendal.me/2015/02/10/a-simple-model-for-smart-contracts/
+http://soma.co/
