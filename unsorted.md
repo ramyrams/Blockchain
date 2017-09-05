@@ -4,6 +4,12 @@
 * [DataBroker DAO](https://firebasestorage.googleapis.com/v0/b/databrokerdao-presale.appspot.com/o/DataBroker%20DAO%20-%20Whitepaper%20-%20v1.1.pdf?alt=media&token=0c9440e2-d513-4511-917b-1e29f10127fa) - A peer to peer marketplace of IoT sensor data
 
 
+https://stratisplatform.com/wp-content/uploads/2016/08/Stratis_Use-Case_001a_Medical-Research.pdf
+
+
+
+
+https://github.com/stratisproject/StratisBitcoinFullNode
 
 
 Block chain
