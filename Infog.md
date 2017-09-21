@@ -1,7 +1,3 @@
-# Benefits of Blockchain Design Framework
-![1](http://www.hands-on-books-series.com/assets/img/Blockchain-TOC.png)
-![1](http://analyseandimplement.com/wp-content/uploads/2016/04/AnI-Blockchain-Design-Canvas-v2.png)
-![1](http://analyseandimplement.com/wp-content/uploads/2016/04/Life-cycle-of-Blockchain-v2.png)
 
 
 https://github.com/digital-dreamer/blockchain-programming/wiki/Video-lectures-and-courses
