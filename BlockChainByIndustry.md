@@ -4,88 +4,92 @@ https://chain.com/ Chain Core is enterprise-grade blockchain infrastructure that
 Read more at CB Insights: https://www.cbinsights.com/company/albumatic
 
 
-Supply Chain
-	provenance https://www.provenance.org/
-	hijro https://hijro.com/
-	blockverify http://www.blockverify.io/
+## Supply Chain
+* provenance https://www.provenance.org/
+* hijro https://hijro.com/
+* blockverify http://www.blockverify.io/
 
-Payment and Money Transfer
-	Abra - https://www.abra.com/
-CyberSecurity
+# Payment and Money Transfer
+* Abra - https://www.abra.com/
+
+## CyberSecurity
 * [guardtime](https://guardtime.com/) - Securing the Physical, Software and Information Supply Chains
 
-Focasting
+## Focasting
 * [Augur](https://augur.net/) - Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool - and the chance for real money trading profits
 	
-Networking and IoT
-	https://filament.com/
+## Networking and IoT
+* https://filament.com/
 
-Insurance
-	aeternity blockchain
-	 Stratumn - http://stratumn.com/ - Proof of Process Technology helps companies and organizations trust the millions of processes that connect our world.
-	Lemonway http://lemonway.com/  Regulatory conformity – Secure money collection with segregated account – Marketplace internationalization
-Private Transport & ride sherng
-	Aracdecity  - https://arcade.city/
-	La'zooz
-Online cloud storage
-	storj.io  https://storj.io/ - Storj is based on blockchain technology and peer-to-peer protocols to provide the most secure, private, and encrypted cloud storage.
+## Insurance
+* aeternity blockchain
+* Stratumn - http://stratumn.com/ - Proof of Process Technology helps companies and organizations trust the millions of processes that connect our world.
+* Lemonway http://lemonway.com/  Regulatory conformity – Secure money collection with segregated account – Marketplace internationalization
 
+## Private Transport & ride sherng
+* Aracdecity  - https://arcade.city/
+* La'zooz
 
-Charity
-	bitgive
-Voting
-	Democroy.eartn
+## Online cloud storage
+* storj.io  https://storj.io/ - Storj is based on blockchain technology and peer-to-peer protocols to provide the most secure, private, and encrypted cloud storage.
+
+## Charity
+* bitgive
+
+## Voting
+* Democroy.eartn
 * [followmyvote](https://followmyvote.com/) - Follow My Vote's ambition is to build a secure online voting platform that will allow for greater election transparency.
-GOvement
-	GovCoin Systems http://getgcs.com/  GovCoin Systems is a digital value transfer systems company focussed on social welfare distribution for sovereign and federal governments, to increase financial inclusion and reduce friction.
+
+## GOvement
+* GovCoin Systems http://getgcs.com/  GovCoin Systems is a digital value transfer systems company focussed on social welfare distribution for sovereign and federal governments, to increase financial inclusion and reduce friction.
 
 
-Public Benefits
-	govcoin
-	Circles
-Healthcare
-	gem  https://gem.co/
-	tierion https://tierion.com/
-	Phlips Blockchain Lab
-Ennergy Management
-	transctive Grid
-	theereum
-	Lo3 Enerygy
-Sports Managemnt
-	JetCoin https://jetcoininstitute.com/
-Giftcard and Loyalty Program
-	Gyft
+## Public Benefits
+* govcoin
+* Circles
 
-Gun Tracking
-	BlockSafe - http://blocksafefoundation.com/
+## Healthcare
+* gem  https://gem.co/
+* tierion https://tierion.com/
+* Phlips Blockchain Lab
 
-OnlineMusic
-	mycellia http://myceliaformusic.org/
-	ujomusic 	https://ujomusic.com/
+## Ennergy Management
+* transctive Grid
+* theereum
+* Lo3 Enerygy
 
+## Sports Managemnt
+* JetCoin https://jetcoininstitute.com/
 
-Retial
-	openbazzar - http://openbazaar.org/  OpenBazaar is a different way to do online commerce. It’s a peer to peer application that doesn’t require middlemen, which means no fees & no restrictions.
+## Giftcard and Loyalty Program
+* Gyft
+
+## Gun Tracking
+* BlockSafe - http://blocksafefoundation.com/
+
+## OnlineMusic
+* mycellia http://myceliaformusic.org/
+* ujomusic 	https://ujomusic.com/
+
+## Retial
+* openbazzar - http://openbazaar.org/  OpenBazaar is a different way to do online commerce. It’s a peer to peer application that doesn’t require middlemen, which means no fees & no restrictions.
 	
+## Real estate
+* ubiquity - http://ubitquity.io/ - THE FIRST BLOCKCHAIN-SECURED PLATFORM FOR REAL ESTATE RECORDKEEPING
 
-Real estate
-	ubiquity - http://ubitquity.io/ - THE FIRST BLOCKCHAIN-SECURED PLATFORM FOR REAL ESTATE RECORDKEEPING
+## croudfunding
 
-croudfunding
+## Charity
+* GiveTrack  https://www.bitgivefoundation.org/ BitGive aims to revolutionize global philanthropy through technology. The company leverages the power of Bitcoin and Blockchain technology to improve public health and the environment worldwide.
 
-Charity
-	GiveTrack  https://www.bitgivefoundation.org/ BitGive aims to revolutionize global philanthropy through technology. The company leverages the power of Bitcoin and Blockchain technology to improve public health and the environment worldwide.
-
-LAW ENFORCEMENT
+## LAW ENFORCEMENT
 
 
-HUMAN RESOURCES
-	 ascribe.io https://www.ascribe.io/
+## HUMAN RESOURCES
+* ascribe.io https://www.ascribe.io/
 
-Your intedusc
-	Data and trascatoipn
-
-managing hiring employees in a company. Colony.io
+## HR
+* managing hiring employees in a company. Colony.io
 
 https://www.cbinsights.com/research/industries-disrupted-blockchain/
 https://everisnext.com/2016/05/31/blockchain-disruptive-use-cases/
