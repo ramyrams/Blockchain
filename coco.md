@@ -1,21 +1,21 @@
 https://github.com/Azure/coco-framework/blob/master/docs/Coco%20Framework%20whitepaper.pdf
 
-https://cdn.ethnews.com/images/content/Coco.GIF-08-10-2017.gif
+
 
 https://www.youtube.com/watch?v=8s6JMmGJ-dY
+#201 Matt Kerner: Microsoft's Coco Framework – The Holy Grail for Enterprise
+https://www.youtube.com/watch?v=vRrBc-wdrOE
 
-http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/COCOFrameworkBlockDig_3.gif
 
-http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/COCO%20architecture.gif
-
-http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/Coco%20actor.gif
-
-http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-microsofts-coco-framework/Images/Bootstrapping%20a%20VN.gif
-
-https://www.nextbigfuture.com/wp-content/uploads/2017/08/3b7d6c62562b0bcf3f6ea280710199ec-1024x442.png
-https://www.nextbigfuture.com/wp-content/uploads/2017/08/291309451610b27345e95b67f0fdf9b3-1024x570.png
-https://www.nextbigfuture.com/wp-content/uploads/2017/08/515f7138e65a4cc917b82b1aedec50d3-1024x589.png
-https://www.nextbigfuture.com/wp-content/uploads/2017/08/515f7138e65a4cc917b82b1aedec50d3-730x430.png?x71037
+![1](https://cdn.ethnews.com/images/content/Coco.GIF-08-10-2017.gif)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/COCOFrameworkBlockDig_3.gif)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/COCO%20architecture.gif)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/Coco%20actor.gif)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-microsofts-coco-framework/Images/Bootstrapping%20a%20VN.gif)
+![1](https://www.nextbigfuture.com/wp-content/uploads/2017/08/3b7d6c62562b0bcf3f6ea280710199ec-1024x442.png)
+![1](https://www.nextbigfuture.com/wp-content/uploads/2017/08/291309451610b27345e95b67f0fdf9b3-1024x570.png)
+![1](https://www.nextbigfuture.com/wp-content/uploads/2017/08/515f7138e65a4cc917b82b1aedec50d3-1024x589.png)
+![1](https://www.nextbigfuture.com/wp-content/uploads/2017/08/515f7138e65a4cc917b82b1aedec50d3-730x430.png)
 
 
 http://www.c-sharpcorner.com/article/introduction-to-microsofts-coco-framework/
