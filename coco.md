@@ -1,8 +1,9 @@
 https://github.com/Azure/coco-framework/blob/master/docs/Coco%20Framework%20whitepaper.pdf
 
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=8s6JMmGJ-dY)
 
-https://www.youtube.com/watch?v=8s6JMmGJ-dY
+
 #201 Matt Kerner: Microsoft's Coco Framework – The Holy Grail for Enterprise
 https://www.youtube.com/watch?v=vRrBc-wdrOE
 
