@@ -8,6 +8,25 @@ https://github.com/Azure/coco-framework/blob/master/docs/Coco%20Framework%20whit
 https://www.youtube.com/watch?v=vRrBc-wdrOE
 
 
+https://auxesisgroup.com/img/Solutions/supply_chain-v2.jpg
+https://auxesisgroup.com/img/Solutions/supply_pic2.jpg
+
+https://cdn-images-1.medium.com/max/1600/0*auOWbIbbiAS9NKqF.
+https://cdn-images-1.medium.com/max/2000/1*12Vy8RdFa-3x0nnnaUIQ_g.jpeg
+https://auxesisgroup.com/so
+
+lutions/supply-chain-network.html
+
+https://www.slideshare.net/ernstandyoung/blockchainenabled-supply-chain-management
+
+http://www.scdigest.com/images/WMT_SUSTAINABILITY_PROJECTS.gif
+https://everisnext.com/wp-content/uploads/2016/05/Infographic-everis-NEXT-Blockchain-Use-Cases-by-Virginia-Duran.jpg
+
+https://cdn-images-1.medium.com/max/1024/1*12Vy8RdFa-3x0nnnaUIQ_g.jpeg
+
+
+
+
 ![1](https://cdn.ethnews.com/images/content/Coco.GIF-08-10-2017.gif)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/COCOFrameworkBlockDig_3.gif)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/article/introduction-to-coco-framework-by-microsoft-for-blockchain-applications/Images/COCO%20architecture.gif)
