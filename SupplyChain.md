@@ -1,9 +1,9 @@
-http://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2017/jun/end-to-end-data-transparency.jpg
-http://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2017/jun/stepwise-blockchain.jpg
+![1](http://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2017/jun/end-to-end-data-transparency.jpg)
+![1](http://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2017/jun/stepwise-blockchain.jpg)
 
 
 How Will Blockchain Technology Affect the Supply Chain?
-If blockchain technology allows us to more securely and transparently track all types of transactions, imagine the possibilities it presents across the supply chain.
+If blockchain ![1](technology allows us to more securely and transparently track all types of transactions, imagine the possibilities it presents across the supply chain.
 
 Every time a product changes hands, the transaction could be documented, creating a permanent history of a product, from manufacture to sale. This could dramatically reduce time delays, added costs, and human error that plague transactions today.
 
