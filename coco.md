@@ -55,3 +55,33 @@ COCO is a foundation for all blockchain protocols. It provides base components l
 Coco system consists of validating nodes termed as VNs. Each VN runs Coco framework and particular blockchain protocol. Every VN can verify the identity of other VN hence they are trusted. As per Coco framework white paper, VN can be further divided into logical components and can be categories into host or enclave.
 
 Microsoft Coco can handle 1600 transactions per second with low hundreds of millisecond latency. This about 100 times better than other non-Coco protocols.
+
+
+https://www.linkedin.com/pulse/how-supply-chain-trade-finance-becomes-most-relevant-use-tabbakh/
+https://www.altoros.com/blog/blockchain-for-trade-finance-real-time-visibility-and-reduced-fraud/
+
+https://developers.blockapps.net/advanced/SupplyChain-Workflow.png?raw=true
+
+
+https://developers.blockapps.net/advanced/SupplyChain-Workflow.png?raw=true
+
+https://developers.blockapps.net/advanced/sequence-diagram-05.png?raw=true
+
+https://developers.blockapps.net/advanced/Demo_Application_Stack.png?raw=true
+http://ordina-jworks.github.io/img/blockchain/smart-contract.png
+https://github.com/blockapps/strato-getting-started
+
+https://developers.blockapps.net/advanced/Production_Architecture.png?raw=true
+https://github.com/blockapps/strato-getting-started/raw/master/STRATO-Architecture.png?raw=true
+
+http://blockapps.net/wp-content/uploads/2017/01/Blockapps-datasheet-12-27-16.pdf
+
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAmvAAAAJGQ2ZmNiYThkLTBiYjMtNDhjZi1hYTY4LTNiYzYyNmRmMWRlMA.png
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAArCAAAAJDRiZjY5OWM3LTA0N2QtNDg4ZS04ODliLWQyMTVmMDZkZTc2Yg.png
+https://www.linkedin.com/pulse/case-blockchain-e-commerce-supply-chain-christophe-deslandes/
+
+
+https://www.ibm.com/devops/method/files/IBMCloud-AC-Blockchain-SupplyChain.pdf
+
+
+
