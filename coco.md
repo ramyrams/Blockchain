@@ -84,4 +84,4 @@ https://www.linkedin.com/pulse/case-blockchain-e-commerce-supply-chain-christoph
 https://www.ibm.com/devops/method/files/IBMCloud-AC-Blockchain-SupplyChain.pdf
 
 
-
+https://www.ibm.com/devops/method/content/architecture/blockchainArchitecture/2_0
