@@ -10,7 +10,7 @@
 ![1](https://cdn.infoq.com/statics_s2_20170829-0315/resource/articles/blockchain-middleware/en/resources/92.jpg)
 ![1](https://cdn.easyeth.com/wp-content/uploads/2016/11/Web-3.0-Tech-Stack.jpg)
 ![1](https://i.stack.imgur.com/OjWPa.png)
-
+![1](http://www.racenext.com/img/tech-stack.png)
 # Benefits of Blockchain Design Framework
 ![1](http://www.hands-on-books-series.com/assets/img/Blockchain-TOC.png)
 ![1](http://analyseandimplement.com/wp-content/uploads/2016/04/AnI-Blockchain-Design-Canvas-v2.png)
