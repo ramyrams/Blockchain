@@ -1,4 +1,19 @@
 
+https://crushcrypto.com/
+https://cryptobriefing.com/quantstamp-ico-review-and-token-analysis/#1507666904032-fca03ddf-4ab4
+https://www.investitin.com/quantstamp-review/
+https://eidoo.io/erc20-tokens-list/
+
+
+https://coinmarketcap.com/currencies/0x/#markets
+https://coinmarketcap.com/currencies/quantstamp/
+https://coinmarketcap.com/currencies/qash/#markets
+https://coinmarketcap.com/currencies/maidsafecoin/#markets
+https://coinmarketcap.com/currencies/achain/#markets
+https://coinmarketcap.com/currencies/ark/#markets
+https://coinmarketcap.com/currencies/deepbrain-chain/#markets
+
+
 
 Get a 3% discount on your hashpower purchase on Genesis Mining by using my code! - 2Mjy9X
 https://www.genesis-mining.com/a/807920
