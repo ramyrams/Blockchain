@@ -5,6 +5,8 @@ https://www.genesis-mining.com/a/807920
 
 Free Bitcoin faucet: https://freebitco.in/?r=4494636
 
+Check this out https://www.youtube.com/watch?v=mSWAPbxGjN0
+
 Free Dogecoin faucet: http://freedoge.co.in/?r=906036
 
 Buy BTC Mining Power with Hashing24!:
