@@ -1,4 +1,46 @@
 
+Rarer than gold? There will only ever be 21 million bitcoins produced 
+It will take until about the year 2140 to get them all.
+Bitcoin restricts the number of blocks that can be mined to about 1 every 10 minutes using the difficulty.
+This results in a controlled release of new bitcoins via the coinbase.
+Once all the bitcoins have been mined then the coinbase will only contain transaction fees.
+
+How many have been mined so far? Over 15 million.
+
+Blocks that are no longer on the longest chain are called orphaned blocks. 
+
+How long does it take to get these confirmations?
+Typically each confirmation takes about 10 minutes. Therefore in about an hour any transaction is irreversible.
+
+
+How does the miner get the transaction fees?
+The fees are added to the coinbase which is paid to an address owned by the miner. They are not redeemable for about 100 blocks.
+
+Every so often when the price of a bitcoin has stabilised for a reasonable duration (many months) the fee is adjusted by collective agreement. Currently it is 0.5mBTC which is less than 0.02 USD.
+
+
+So each transaction has a parent and so on?
+Yes. The sum of all bitcoins paid into Bitcoin addresses that you own is your total balance.
+
+1. You want me to send you a diamond through the post.
+2. You send me an empty metal box containing an unlocked padlock.
+3. I put the diamond in the box. I also put my own unlocked padlock in there. Then I lock the box with your padlock.
+4. Now nobody can open that box except you so I send it through the post.
+5. It arrives and you use your private key to open your lock.
+6. You examine the diamond, and you want to send me payment (in cash) so you put the pile of notes in the box and lock it with my lock.
+7. Now nobody can open that box except me, so you send it through the post.
+8. It arrives and I use my private key to open my lock.
+
+In the world of cryptography, the padlock is called the "public key" because it is out in the open (public) and only a single private key will unlock anything protected by it.
+
+Also, in cryptography a "key" is just a very large number. So we have a "public very large number", and a "private very large number".
+
+
+FAQ
+
+
+
+
 https://crushcrypto.com/
 https://cryptobriefing.com/quantstamp-ico-review-and-token-analysis/#1507666904032-fca03ddf-4ab4
 https://www.investitin.com/quantstamp-review/
