@@ -313,4 +313,4 @@ https://dzone.com/articles/smart-contract-security-how-to-never-break-the-blo?fr
 Berlin, the Blockchain Capital of the World?
 https://dzone.com/articles/berlin-the-blockchain-capital-of-the-world?fromrel=true
 
-[!](https://assets.weforum.org/editor/_6PsX2aYNmUhNu-lU7q8wx2AinuqblUEjM2GuQ1SFPs.png)
+![](https://assets.weforum.org/editor/_6PsX2aYNmUhNu-lU7q8wx2AinuqblUEjM2GuQ1SFPs.png)
