@@ -314,3 +314,5 @@ Berlin, the Blockchain Capital of the World?
 https://dzone.com/articles/berlin-the-blockchain-capital-of-the-world?fromrel=true
 
 ![](https://assets.weforum.org/editor/_6PsX2aYNmUhNu-lU7q8wx2AinuqblUEjM2GuQ1SFPs.png)
+![](http://arch-doc.rchain.coop/en/latest/_images/comparison-table.png)
+
