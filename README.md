@@ -9,6 +9,7 @@ Which Blockchain?
 * DAOs
 * ICOs
 
+![InfoGraphic](https://coinhooked.com/introduction-e-gov-blockchain/)
 
 https://blockchainhub.net/blockchain-intro/
 
